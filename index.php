@@ -111,8 +111,8 @@
                         <i class="fas fa-star"></i>
                         <i class="far fa-star"></i>
                     </div>
-                    <div class="price">&#8360; 3,500</div>
-                    <a href="#" class="btn">Book Now</a>
+                    <div class="price">&#8360; 15,000</div>
+                    <a href="booking_form.html" class="btn">Book Now</a>
                 </div>
             </div>
 
@@ -128,8 +128,8 @@
                         <i class="far fa-star"></i>
                         <i class="far fa-star"></i>
                     </div>
-                    <div class="price">&#8360; 3,500</div>
-                    <a href="#" class="btn">Book Now</a>
+                    <div class="price">&#8360; 20,000</div>
+                    <a href="booking_form.html" class="btn">Book Now</a>
                 </div>
             </div>
 
@@ -145,8 +145,8 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                     </div>
-                    <div class="price">&#8360; 3,500</div>
-                    <a href="#" class="btn">Book Now</a>
+                    <div class="price">&#8360; 15,000</div>
+                    <a href="booking_form.html" class="btn">Book Now</a>
                 </div>
             </div>
 
@@ -162,8 +162,8 @@
                         <i class="far fa-star"></i>
                         <i class="far fa-star"></i>
                     </div>
-                    <div class="price">&#8360; 3,500</div>
-                    <a href="#" class="btn">Book Now</a>
+                    <div class="price">&#8360; 12,000</div>
+                    <a href="booking_form.html" class="btn">Book Now</a>
                 </div>
             </div>
 
@@ -179,8 +179,8 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                     </div>
-                    <div class="price">&#8360; 3,500</div>
-                    <a href="#" class="btn">Book Now</a>
+                    <div class="price">&#8360; 14,000</div>
+                    <a href="booking_form.html" class="btn">Book Now</a>
                 </div>
             </div>
 
@@ -196,8 +196,8 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                     </div>
-                    <div class="price">&#8360; 3,500</div>
-                    <a href="#" class="btn">Book Now</a>
+                    <div class="price">&#8360; 18,000</div>
+                    <a href="booking_form.html" class="btn">Book Now</a>
                 </div>
             </div>
             
@@ -213,8 +213,8 @@
                         <i class="fas fa-star"></i>
                         <i class="far fa-star"></i>
                     </div>
-                    <div class="price">&#8360; 3,500</div>
-                    <a href="#" class="btn">Book Now</a>
+                    <div class="price">&#8360; 12,000</div>
+                    <a href="booking_form.html" class="btn">Book Now</a>
                 </div>
             </div>
 
@@ -230,8 +230,8 @@
                         <i class="fas fa-star"></i>
                         <i class="far fa-star"></i>
                     </div>
-                    <div class="price">&#8360; 3,500</div>
-                    <a href="#" class="btn">Book Now</a>
+                    <div class="price">&#8360; 20,000</div>
+                    <a href="booking_form.html" class="btn">Book Now</a>
                 </div>
             </div>
 
@@ -272,8 +272,8 @@
                         <i class="fas fa-star"></i>
                         <i class="far fa-star"></i>
                     </div>
-                    <div class="price">&#8360; 3,500 <span>&#8360;9,000</span></div>
-                    <a href="#" class="btn">Book Now</a>
+                    <div class="price">&#8360; 15,000 <span>&#8360;30,000</span></div>
+                    <a href="booking_form.html" class="btn">Book Now</a>
                 </div>
             </div>
 
@@ -289,8 +289,8 @@
                         <i class="far fa-star"></i>
                         <i class="far fa-star"></i>
                     </div>
-                    <div class="price">&#8360; 3,500 <span>&#8360;9,000</span></div>
-                    <a href="#" class="btn">Book Now</a>
+                    <div class="price">&#8360; 8,000 <span>&#8360;13,000</span></div>
+                    <a href="booking_form.html" class="btn">Book Now</a>
                 </div>
             </div>
 
@@ -298,7 +298,7 @@
                 <img src="kerla.jpg" alt="">
                 <div class="content">
                     <h3><i class="fas fa-map-marker-alt"></i>Kerla</h3>
-                    <p>Kerala, known as "God's Own Country," features tranquil backwaters and lush landscapes.</p>
+                    <p>Kerla, known as "God's Own Country," features tranquil backwaters and lush landscapes.</p>
                     <div class="stars">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
@@ -306,8 +306,8 @@
                         <i class="far fa-star"></i>
                         <i class="far fa-star"></i>
                     </div>
-                    <div class="price">&#8360; 3,500 <span>&#8360;9,000</span></div>
-                    <a href="#" class="btn">Book Now</a>
+                    <div class="price">&#8360; 20,000 <span>&#8360;25,000</span></div>
+                    <a href="booking_form.html" class="btn">Book Now</a>
                 </div>
             </div>
             
@@ -323,8 +323,8 @@
                         <i class="fas fa-star"></i>
                         <i class="far fa-star"></i>
                     </div>
-                    <div class="price">&#8360; 3,500 <span>&#8360;9,000</span></div>
-                    <a href="#" class="btn">Book Now</a>
+                    <div class="price">&#8360; 35,000 <span>&#8360;39,000</span></div>
+                    <a href="booking_form.html" class="btn">Book Now</a>
                 </div>
             </div>
 
@@ -340,8 +340,8 @@
                         <i class="fas fa-star"></i>
                         <i class="far fa-star"></i>
                     </div>
-                    <div class="price">&#8360; 3,500 <span>&#8360;9,000</span></div>
-                    <a href="#" class="btn">Book Now</a>
+                    <div class="price">&#8360; 15,000 <span>&#8360;20,000</span></div>
+                    <a href="booking_form.html" class="btn">Book Now</a>
                 </div>
             </div>
 
@@ -357,8 +357,8 @@
                         <i class="fas fa-star"></i>
                         <i class="far fa-star"></i>
                     </div>
-                    <div class="price">&#8360; 3,500 <span>&#8360;9,000</span></div>
-                    <a href="#" class="btn">Book Now</a>
+                    <div class="price">&#8360; 12,000 <span>&#8360;15,000</span></div>
+                    <a href="booking_form.html" class="btn">Book Now</a>
                 </div>
             </div>
 
